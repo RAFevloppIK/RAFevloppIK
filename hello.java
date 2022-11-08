@@ -8,7 +8,6 @@ public class hello {
 	
 		System.out.println("Hello, it's newwwwww !!!");
 		System.out.println("Hello 2");
-		System.out.println("Hello 333333");
 		
 	}
 
